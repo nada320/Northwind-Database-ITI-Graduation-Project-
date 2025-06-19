@@ -1,7 +1,7 @@
 🌟 Exciting Milestone: ITI Power BI Developer Track Graduation 🌟
 
+![Capture](https://github.com/user-attachments/assets/f4b3603d-64cd-40e8-8bc9-52a476a4b81b)
 
-![Uploading Capture.PNG…]()
 
 
 I am thrilled to announce the successful completion of our graduation project as part of the Power BI Developer Track at the Information Technology Institute (ITI)! It has been an incredible journey filled with learning, collaboration, and growth alongside my amazing teammates:
